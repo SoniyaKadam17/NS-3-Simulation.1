@@ -1,1 +1,0 @@
-Proficient in utilizing NS-3 simulation software for network modeling and analysis, specifically in configuring point-to-point and CSMA network architectures. Experienced in modifying example codes, conducting simulations, and generating detailed reports. Skilled in analyzing network protocols using Wireshark
